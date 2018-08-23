@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
 <map>
- <title>conref brands and PIDs</title>
+ <title> test conref brands and PIDs</title>
  <topicref href="conrefs.dita" processing-role="resource-only"/>
  <topicref href="installing.dita"/>
 </map>
