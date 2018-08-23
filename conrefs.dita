@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="brand_conrefs">
+  <title>Brand content references</title>
+  <body>
+    <bodydiv>
+      <ph id="product">
+        <ph product="simplex">Simplex</ph>
+        <ph product="autocall">Autocall</ph>
+      </ph>
+      <ph id="4100-0001">
+        <ph product="simplex">4100-0001</ph>
+        <ph product="autocall">4100-0001AC</ph>
+      </ph>
+    </bodydiv>
+    <p><ph id="brand-xref">
+        <ph product="simplex"><xref href="https://www.google.com/" format="html" scope="external"
+            product="simplex"/></ph>
+        <ph product="autocall"><xref href="https://www.bing.com/" format="html" scope="external"
+            product="autocall"/></ph>
+      </ph>
+    </p>
+  </body>
+</topic>

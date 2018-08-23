@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<val>
+    <prop att="product" val="autocall" action="include"/>
+    <prop att="product" val="simplex" action="exclude"/>
+    <prop att="product" val="autopulse" action="exclude"/>
+</val>

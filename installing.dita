@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Task//EN" "topic.dtd">
+<topic id="task_igm_m5y_ct">
+    <title>Installing the<ph conref="conrefs.dita#brand_conrefs/product"/><ph
+            conref="conrefs.dita#brand_conrefs/4100-0001"/>device</title>
+    <body><p>Install the <ph conref="conrefs.dita#brand_conrefs/product"/> product. Also, take a look at this
+            brand specific PID that is rendered via the same ditaval: <ph
+                conref="conrefs.dita#brand_conrefs/4100-0001"/>. For some reason PDF2 renders extra
+            space after the ph element.</p>
+        <p><ph conref="conrefs.dita#brand_conrefs/brand-xref"></ph></p>
+    </body>
+</topic>
