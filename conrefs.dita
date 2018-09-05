@@ -5,8 +5,7 @@
   <body>
     <bodydiv>
       <ph id="product">
-        <ph product="simplex">Simplex</ph>
-        <ph product="autocall">Autocall</ph>
+        <ph product="simplex">Simplex</ph>fdghfg <ph product="autocall">Autocall</ph>
       </ph>
       <ph id="4100-0001">
         <ph product="simplex">4100-0001</ph>
